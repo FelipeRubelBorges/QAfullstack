@@ -1,0 +1,26 @@
+Permitir com que possa ser refeito uma Visita em um Detento.
+
+
+
+______________________________________________________________
+
+
+Relatórios
+
+Relatório deve gerar visitas realizadas em cojunto de suas observações
+Relatórios deve ser realizado através de filtros por detento
+
+
+
+
+
+
+________________________________________________________________________
+Verificar uma possivel central de notificações
+
+______________________________________________________________
+Após detento inserido pelo forum, policial administrativo pode alterar os campos que não forem relacionados ao endereço do detento
+Policial administrativo não pode inserir cadastro de detento
+Policial Administrativo não pode alterar endereço do detento.
+
+Verificar como será a foto do detento.
